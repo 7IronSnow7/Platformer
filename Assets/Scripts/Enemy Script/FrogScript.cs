@@ -59,3 +59,4 @@ public class FrogScript : MonoBehaviour
         anim.Play("FrogIdleLeft");
     }
 }
+// Making a comment here for testing sake to github.
